@@ -1,6 +1,6 @@
 # Laravel YouVerify Integration Demo
 
-A clean, senior-level Laravel integration with [YouVerify](https://youverify.co) KYB (Know Your Business) verification service.
+A clean, Laravel integration with [YouVerify](https://youverify.co) KYB (Know Your Business) verification service.
 
 ## Features
 
