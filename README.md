@@ -176,7 +176,7 @@ tests/Feature/
 └── YouVerifyTest.php
 ```
 
-## Assumptions & Limitations
+## Limitations
 
 1. **API-only**: No Blade views or frontend
 2. **Authentication**: No user authentication on the endpoint (add middleware as needed)
@@ -184,6 +184,3 @@ tests/Feature/
 4. **Consent**: `isConsent` is always `true` per YouVerify requirements
 5. **Rate Limiting**: Not implemented; add Laravel's rate limiting middleware for production
 
-## License
-
-This project is open-sourced software.
